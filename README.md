@@ -13,10 +13,10 @@ Este projeto configura um ambiente de processamento de dados utilizando **Apache
 
 # Como executar
 ```
-./start_openlineage.sh
+1°- ./start_openlineage.sh
 ```
 ```
-docker compose up -d --build
+2°- docker compose up -d --build
 ```
 # Versões utilizadas
 - python:3.12
