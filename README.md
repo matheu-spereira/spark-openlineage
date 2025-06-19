@@ -12,11 +12,9 @@ Este projeto configura um ambiente de processamento de dados utilizando **Apache
 ![alt text](assets/linhagem_colunas.png)
 
 # Como executar
-1°- 
 ```
 ./start_openlineage.sh
 ```
-2° -
 ```
 docker compose up -d --build
 ```
